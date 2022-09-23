@@ -40,6 +40,12 @@ initdb -D  pgdata  -U postgres -E UTF-8 --no-locale
 pg_ctl -D pgdata -l logfile start -o'-p 5432'
 ```
 
+## Create the frappe-bench directory
+
+```bash
+bench init erpnext
+```
+
 ## create your first website
 
 ```
@@ -60,3 +66,7 @@ bench install-app erpnext
 ```bash
 bench start
 ```
+
+## more tutorials
+
+https://frappeframework.com/docs/v14/user/en/introduction
