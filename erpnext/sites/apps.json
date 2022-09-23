@@ -1,0 +1,11 @@
+{
+    "payments": {
+        "resolution": {
+            "commit_hash": "487747b73f658de78fbe1741a06e7447927cfa79",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 1,
+        "version": "0.0.1"
+    }
+}

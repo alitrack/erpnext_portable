@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+miniconda/
+
+frappe.tar.gz
+
+erpnext/pgdata/
+

@@ -1,0 +1,1 @@
+initdb -D  pgdata  -U postgres -E UTF-8 --no-locale
